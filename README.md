@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tropaafsara&label=Profile%20views&color=0e75b6&style=flat" alt="tropaafsara" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS** & **Typescript**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
