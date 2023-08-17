@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java | DSA | MERN**
 
-- 📫 How to reach me **afsaratasnim131@gmail.com**
+- 📫 How to reach me **afsaratasnim1313@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
